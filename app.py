@@ -1,8 +1,3 @@
-hi
-
-I try to get my binance spot wallet balance value in btc and usdt, but my code doesn't work....
-
-My python code:
 
 # Importing libraries
 from binance.client import Client
